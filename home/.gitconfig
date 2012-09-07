@@ -1,0 +1,21 @@
+[user]
+	name = David Gasson
+	email = dgasson@gmail.com 
+[core]
+	editor = vim
+[alias]
+	last = cat-file commit HEAD
+[difftool]
+	guitool = meld
+	prompt = false
+[merge]
+	tool = meld
+[colour]
+	ui = true
+[color]
+  ui = true
+  diff = auto
+  status = auto
+  interactive = auto
+[branch]
+  autosetuprebase = always
